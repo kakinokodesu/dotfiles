@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Color Picker
+Comment=Pick colors from your screen
+Exec=yad --color
+Terminal=false
+Type=Application
+Icon=gcolor3
+Categories=Graphics;

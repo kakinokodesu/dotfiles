@@ -1,0 +1,8 @@
+sudo apt install build-essential xorg libx11-dev libxft-dev libxinerama-dev x11-xserver-utils git make curl acpi network-manager fastfetch chromium fonts-thai-tlwg xinput yad tree xclip ttf-mscorefonts-installer fonts-noto-core fonts-noto-color-emoji fonts-noto-cjk  
+
+
+
+
+
+git config --global user.name "plub"
+git config --global user.email "kakinokodesu@gmail.com"
